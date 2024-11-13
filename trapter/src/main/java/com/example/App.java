@@ -1,3 +1,12 @@
+/*
+* File: App.java
+* Author: Orosz Olivér Arnold
+* Copyright: 2024, Orosz Olivér Arnold
+* Group: Szoft II/I/N
+* Date: 2024-11-13
+* Github: https://github.com/Hiradura/
+* Licenc: GNU GPL
+*/
 package com.example;
 
 import javafx.application.Application;
