@@ -36,8 +36,6 @@ public class MainContr {
     @FXML
     private void showInfo(ActionEvent event) {
         Alert infoAlert = new Alert(Alert.AlertType.NONE);
-        infoAlert.setTitle("Information");
-        infoAlert.setHeaderText("Project: Trapter");
         infoAlert.setContentText("Created by: Orosz Olivér Arnold, 2024-11-12, Szoft I/2/N");
         infoAlert.getDialogPane().getButtonTypes().add(ButtonType.CLOSE);
         infoAlert.showAndWait();
